@@ -1,1 +1,4 @@
-text\nnumpy\npandas\nscipy\nmatplotlib\n
+numpy
+pandas
+scipy
+matplotlib
